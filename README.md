@@ -1,2 +1,3 @@
-#Scripts\activate 
-https://archeruz.github.io/Ecommerce-FrontendPage/
+#Scripts\activate
+
+live: https://archeruz.github.io/Ecommerce-FrontendPage/
